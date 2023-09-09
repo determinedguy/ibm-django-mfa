@@ -10,6 +10,9 @@ testfixtures = "*"
 boto3 = "*"
 requests = "*"
 pyotp = "*"
+sms = "*"
+twilio = "*"
+messagebird = "*"
 
 [dev-packages]
 
